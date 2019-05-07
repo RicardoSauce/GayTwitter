@@ -1,4 +1,5 @@
 # GayTwitter
+-- ADAPTATION FROM https://ahmedbesbes.com/sentiment-analysis-on-twitter-using-word2vec-and-keras.html
 # Progress from 2018
 This was the preliminary work from my summer research position with the McNair Scholars program. I hope to continue developing this ML project for the means of improving NLP models in place today.
 
