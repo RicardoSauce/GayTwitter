@@ -4,7 +4,7 @@ This was the preliminary work from my summer research position with the McNair S
 
 
 ## --- Progress so far in 2019 ---
-## Spring Semester, 2019 @ SLU
+#### Spring Semester, 2019 @ SLU
 
 Task | Work completed | Notes
 ------------------------------
